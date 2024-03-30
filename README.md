@@ -1,6 +1,10 @@
 # DBMS_proj
 The Music App DBMS is a comprehensive system for managing user profiles, music content, subscriptions, payments, devices, interactions, and advertisements. It enables personalized music experiences, seamless transactions, and data-driven decision-making for enhanced user engagement and satisfaction in the digital music streaming landscape.
-
+By 
+- B057 Precious Sukhi
+- B061 Harshita Ranka
+- B062 Sanjana Surana
+  
 An Introduction:
 The Music App Database Management System (DBMS) is a comprehensive solution designed to streamline the storage, retrieval, and management of data within a music streaming application. In today's digital age, where music consumption is increasingly shifting towards online platforms, a robust and efficient database system is essential for providing users with a seamless and personalized music listening experience. The Music App DBMS addresses this need by offering a structured and organized framework for handling diverse types of data, including user profiles, music content, subscriptions, payments, devices, interactions, and advertisements.
 
